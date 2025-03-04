@@ -47,8 +47,31 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teameclipsebest&show_icons=true&locale=en&layout=compact&theme=radical" alt="teameclipsebest" /></p>
+<h3 align="left" style="color: red;">My Stats:</h3>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teameclipsebest&show_icons=true&locale=en&layout=compact&theme=radical" alt="teameclipsebest" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teameclipsebest&show_icons=true&locale=en&theme=radical" alt="teameclipsebest" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teameclipsebest&theme=red" alt="teameclipsebest" /></p>
+
+<h3 align="left" style="color: red;">Achievements:</h3>
+<ul>
+  <li>🏆 **Top 10% of Developers** in [GitHub](https://github.com/teameclipsebest) contributions</li>
+  <li>🎓 Completed **Full Stack Web Development Course** from [Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)</li>
+  <li>💡 Contributed to multiple **open-source projects** in the developer community</li>
+  <li>🚀 Developed **[Eclipse Discord Music Bot](https://discord.gg/YMscqm7Q)** with **500+ active users**!</li>
+</ul>
+
+<h3 align="left" style="color: red;">Fun Facts about Me:</h3>
+<ul>
+  <li>👾 I love solving coding challenges on [LeetCode](https://leetcode.com/) and [HackerRank](https://www.hackerrank.com/)</li>
+  <li>🎮 When I'm not coding, I'm a huge fan of **gaming**, especially FPS games!</li>
+  <li>🌍 I enjoy traveling and have visited over **5 countries**!</li>
+</ul>
+
+<h3 align="left" style="color: red;">Favorite Quote:</h3>
+<p align="left" style="font-style: italic; color: #d32f2f;">
+  "The only way to do great work is to love what you do." – Steve Jobs
+</p>
